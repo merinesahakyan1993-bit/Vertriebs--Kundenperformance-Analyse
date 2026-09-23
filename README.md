@@ -1,1 +1,1 @@
-# Vertriebs--Kundenperformance-Analyse
+# Vertriebs-Kundenperformance-Analyse
